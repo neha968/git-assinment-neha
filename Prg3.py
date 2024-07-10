@@ -1,12 +1,12 @@
-'''num = -3
+num = -3
 if (num < 0):
     print("Negative is 0")
 elif (num > 0):
     print("Positive")
 else:
-    print("out of if else")'''
+    print("out of if else")
 
-savingAmt = 1000
+savingAmt = 2000
 withdrawAmt = int(input("Enter the Amount to withdraw:"))
 if(withdrawAmt > savingAmt):
     print("Insufficient balance")
